@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679356055 source:c:\users\thiag\onedrive\Área de trabalho\monitoria\monitoria_dia_20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
