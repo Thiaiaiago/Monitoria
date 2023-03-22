@@ -54,6 +54,7 @@ int main()
         printf("Deu ruim!\nNenhum ou mais de um parâmetro é igual ou menor que zero!");
     }
 
+    //assinatura de cria
     system("c:\signature\\signature.exe");
     return 0;
 }
